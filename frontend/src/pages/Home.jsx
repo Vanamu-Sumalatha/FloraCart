@@ -310,10 +310,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </section>
-
-      {/* Newsletter */}
-      
+      </section>     
     </div>
   );
 };

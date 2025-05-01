@@ -1,71 +1,66 @@
-# FloraCart - Enhanced Online Flower Bouquet Booking Platform
+# FloraCart
 
-A feature-rich eCommerce platform for booking flower bouquets, built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and styled with Tailwind CSS.
-
-## Project Structure
-
-```
-floracart/
-├── frontend/          # React.js frontend application
-└── backend/           # Node.js & Express.js backend server
-```
+FloraCart is a modern e-commerce platform for selling flowers and floral arrangements online. Built with React and styled with Tailwind CSS, it offers a beautiful and responsive user interface for browsing and purchasing flowers.
 
 ## Features
 
-- Clean & Interactive Home Page
-- User Registration & Authentication
-- Bouquet Customization
-- Interactive Checkout Process
-- User Reviews & Rating System
-- Admin Dashboard
-- Rewards Program
-- Social Sharing Features
-- Responsive Design
-- SEO & Marketing Features
+- Responsive design
+- Product catalog with filtering and search
+- Shopping cart functionality
+- Wishlist feature
+- User authentication
+- Product reviews and ratings
+- Secure checkout process
 
-## Tech Stack
+## Screenshots
 
-- **Frontend:** React.js, Tailwind CSS, React Router
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT, OAuth (Google/Facebook)
+![](Screenshots/Screenshot%202025-05-01%20131918.png)
+![](Screenshots/Screenshot%202025-05-01%20131942.png)
+![](Screenshots/Screenshot%202025-05-01%20132014.png)
+![](Screenshots/Screenshot%202025-05-01%20132034.png)
+![](Screenshots/Screenshot%202025-05-01%20132056.png)
+![](Screenshots/Screenshot%202025-05-01%20132124.png)
+![](Screenshots/Screenshot%202025-05-01%20132153.png)
+![](Screenshots/Screenshot%202025-05-01%20132237.png)
+![](Screenshots/Screenshot%202025-05-01%20132310.png)
+![](Screenshots/Screenshot%202025-05-01%20132330.png)
+![](Screenshots/Screenshot%202025-05-01%20132350.png)
+![](Screenshots/Screenshot%202025-05-01%20132415.png)
+![](Screenshots/Screenshot%202025-05-01%20132429.png)
+![](Screenshots/Screenshot%202025-05-01%20132459.png)
+![](Screenshots/Screenshot%202025-05-01%20132522.png)
+![](Screenshots/Screenshot%202025-05-01%20132547.png)
+![](Screenshots/Screenshot%202025-05-01%20132632.png)
+![](Screenshots/Screenshot%202025-05-01%20132720.png)
+![](Screenshots/Screenshot%202025-05-01%20132748.png)
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or higher)
-- MongoDB
-- npm or yarn
-
-### Installation
-
 1. Clone the repository
-2. Install backend dependencies:
-   ```bash
-   cd backend
-   npm install
-   ```
-3. Install frontend dependencies:
-   ```bash
-   cd frontend
-   npm install
-   ```
+```bash
+git clone https://github.com/Vanamu-Sumalatha/FloraCart.git
+```
 
-### Running the Application
+2. Install dependencies
+```bash
+cd frontend
+npm install
+```
 
-1. Start the backend server:
-   ```bash
-   cd backend
-   npm run dev
-   ```
+3. Start the development server
+```bash
+npm start
+```
 
-2. Start the frontend development server:
-   ```bash
-   cd frontend
-   npm start
-   ```
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License - see the LICENSE file for details. 
